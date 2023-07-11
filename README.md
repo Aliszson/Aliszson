@@ -1,4 +1,4 @@
-### Hi people. I'm Alizson! 👋
+### Hi people. I'm Alisson! 👋
 
 - 📚 I am currently studying Computer Science.
 
