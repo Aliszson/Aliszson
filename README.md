@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi people. I'm Alizson! 👋
+
+- 📚 I am currently studying Computer Science.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliszson&show_icons=true&theme=tokyonight)
+
 
 <!--
 **Aliszson/Aliszson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
