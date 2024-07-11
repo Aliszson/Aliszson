@@ -2,20 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Maname&duration=2000&pause=500&color=B13BBA&center=true&random=false&width=435&lines=Ol%C3%A1!+Me+chamo+Alisson+Chaves!+%F0%9F%91%8B;Tenho+22+anos.;%F0%9F%93%9ACurso+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IFCE.+%F0%9F%92%BB" style="display: block; margin: 0 auto;">
 </p>
 
-<div style="border: 2px solid #B13BBA; border-radius: 20px; padding: 20px;">
-  <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-      📚 Estudante de Ciência da Computação apaixonado por tecnologia e em constante <br> busca por novos desafios.
-    </div>
-    <div style="text-align: right;">
-      <img src="https://64.media.tumblr.com/76b5ad8fae3ef3bbd9f199de19f730e1/tumblr_o5bx4wrAPB1td5qjgo1_540.gif" alt="GIF" style="max-width: 50px;">
-    </div>
-  </div>
-</div>
+### 📚 Estudante de Ciência da Computação apaixonado por tecnologia e em constante busca por novos desafios.
+
+
+
+
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aliszson&layout=compact&bg_color=000&border_color=30A3DC&title_color=B13BBAFF&text_color=FFF&hide=jupyter%20notebook" width="250">
-<img src="https://github-readme-stats.vercel.app/api?username=aliszson&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B13BBAFF&text_color=FFF&" width="329.5">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aliszson&layout=compact&bg_color=000&border_color=30A3DC&title_color=B13BBAFF&text_color=FFF&hide=jupyter%20notebook" width="300">
+<img src="https://github-readme-stats.vercel.app/api?username=aliszson&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B13BBAFF&text_color=FFF&" width="395.3">
 </p>
 
 <p align="center">
@@ -26,6 +21,10 @@
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/76b5ad8fae3ef3bbd9f199de19f730e1/tumblr_o5bx4wrAPB1td5qjgo1_540.gif" alt="GIF" style="max-width: 100px;">
+</div>
 
 ## Linguagens de Progamação
 
@@ -50,30 +49,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Aliszson/Aliszson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliszson&show_icons=true&theme=tokyonight)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
