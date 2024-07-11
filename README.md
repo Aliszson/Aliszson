@@ -2,10 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Maname&duration=2000&pause=500&color=B13BBA&center=true&random=false&width=435&lines=Ol%C3%A1!+Me+chamo+Alisson+Chaves!+%F0%9F%91%8B;Tenho+22+anos.;%F0%9F%93%9ACurso+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IFCE.+%F0%9F%92%BB" style="display: block; margin: 0 auto;">
 </p>
 
-### 📚 Estudante de Ciência da Computação apaixonado por tecnologia e em constante busca por novos desafios.
-
-<div align="right">
-  <img src="https://64.media.tumblr.com/76b5ad8fae3ef3bbd9f199de19f730e1/tumblr_o5bx4wrAPB1td5qjgo1_540.gif" alt="GIF" style="max-width: 50px;">
+<div style="border: 2px solid #B13BBA; border-radius: 20px; padding: 20px;">
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+      📚 Estudante de Ciência da Computação apaixonado por tecnologia e em constante <br> busca por novos desafios.
+    </div>
+    <div style="text-align: right;">
+      <img src="https://64.media.tumblr.com/76b5ad8fae3ef3bbd9f199de19f730e1/tumblr_o5bx4wrAPB1td5qjgo1_540.gif" alt="GIF" style="max-width: 50px;">
+    </div>
+  </div>
 </div>
 
 <p align="center">
@@ -39,6 +44,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+
+
+
+
 
 
 
