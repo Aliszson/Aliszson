@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Maname&size=25&duration=2000&pause=500&color=B13BBA&center=true&random=false&width=435&lines=Ol%C3%A1!+Me+chamo+Alisson+Chaves!+%F0%9F%91%8B;Tenho+21+anos.;%F0%9F%93%9ACurso+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IFCE.+%F0%9F%92%BB">
+  <img src="https://readme-typing-svg.demolab.com?font=Maname&size=25&duration=2000&pause=500&color=B13BBA&center=true&random=false&width=435&lines=Ol%C3%A1!+Me+chamo+Alisson+Chaves!+%F0%9F%91%8B;Tenho+22+anos.;%F0%9F%93%9ACurso+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IFCE.+%F0%9F%92%BB">
 </p>
 
 <h3 style="margin-top: 0;">📚 Estudante de Ciência da Computação apaixonado por tecnologia e em constante busca por novos desafios.</h3>
