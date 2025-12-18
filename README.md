@@ -1,8 +1,8 @@
 <p align="center" style="margin-bottom: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Maname&size=25&duration=2000&pause=500&color=B13BBA&center=true&random=false&width=435&lines=Ol%C3%A1!+Me+chamo+Alisson!+%F0%9F%91%8B;Tenho+22+anos.;%F0%9F%93%9ACurso+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IFCE.+%F0%9F%92%BB">
+  <img src="https://readme-typing-svg.demolab.com?font=Maname&size=25&duration=2000&pause=500&color=B13BBA&center=true&random=false&width=435&lines=Ol%C3%A1!+Me+chamo+Alisson!+%F0%9F%91%8B;Tenho+23+anos.;%F0%9F%93%9ACurso+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IFCE.+%F0%9F%92%BB">
 </p>
 
-<h3 style="margin-top: 0;">📚 Estudante de Ciência da Computação apaixonado por tecnologia e em constante busca por novos desafios.</h3>
+<h3 style="margin-top: 0;">📚 Desenvolvedor Back-end. Atualmente cursando Ciência da Computação no IFCE. </h3>
 
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aliszson&layout=compact&bg_color=000&border_color=30A3DC&title_color=B13BBAFF&text_color=FFF&hide=jupyter%20notebook" width="300">
